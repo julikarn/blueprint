@@ -1,0 +1,43 @@
+
+
+svg {
+    width: 20px;
+    height: 20px;
+    position: relative;
+    top: 13px;
+    right: 6px;
+}
+.leftside {
+    width: 242px;
+    background: antiquewhite;
+}
+
+.leftside {
+    padding-top: 15px;
+    margin-left: 18px 
+}
+.leftside div {
+    display: flex;
+    margin-top: 10;
+    cursor: pointer;
+    padding: 0px 40px 0px 40px;
+}
+
+.leftside div:hover{
+
+    background: blue;
+    color: white;
+    border-radius: 10px;
+}
+.whole {
+    display: flex;
+}
+.rightSide {
+    margin-left: 30px;
+    width: 1029px;
+    background: antiquewhite;
+}
+#chartId{
+    padding-top: 90px;
+    margin: auto;
+}
